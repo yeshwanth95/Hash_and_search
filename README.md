@@ -3,6 +3,7 @@
     <h3 align="center">Oral @ CVPR 2026</h3>
     <a href="https://yeshwanth95.github.io/">Yeshwanth Kumar Adimoolam<sup>1</sup></a>, <a href="https://poullis.org/">Charalambos Poullis<sup>2</sup></a>, <a href="https://melinos.github.io/">Melinos Averkiou<sup>3</sup></a><br>
     <sup>1</sup>Cyprus University of Technology, <sup>2</sup>Concordia University, <sup>3</sup>CYENS CoE, Cyprus
+    <img src="./assets/dedup_cvpr2026_poster-poster_thumbnail.png" width=80% height=80%>
 </div>
 
 [[Demo Website](https://datainspector.app/)]    [[Paper](https://arxiv.org/abs/2304.02296)]    [[Video](https://youtu.be/NzW8-Q3upx0?si=vvbDnZKaZDTyzUFl)]
